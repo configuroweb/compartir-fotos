@@ -1,4 +1,5 @@
 # Aplicación para Compartir Fotos en PHP y MySQL
+<img src="Aplicación%20para%20Compartir%20Fotos%20en%20PHP%20y%20MySQL.jpg">
 
 Esta aplicación para compartir fotos en PHP y MySQL le permite al usuario con perfil de publicante, subir sus fotografías de manera que los demás usuarios las puedan ver y comentar, los únicos usuarios que pueden subir fotografías nuevas son los de perfil publicante.
 
