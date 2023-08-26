@@ -12,17 +12,13 @@ include('header.php');
 	body {
 		width: 100%;
 		height: calc(100%);
-		background: #333;
-		/* Cambia el color de fondo a oscuro */
-		color: #fff;
-		/* Cambia el color del texto a claro */
+		/*background: #007bff;*/
 	}
 
 	main#main-login {
 		width: 100%;
 		height: calc(100%);
-		background: #111;
-		/* Cambia el color de fondo a oscuro */
+		background: white;
 	}
 
 	#login-right {
@@ -30,8 +26,7 @@ include('header.php');
 		right: 0;
 		width: 50%;
 		height: calc(100%);
-		background: #111;
-		/* Cambia el color de fondo a oscuro */
+		background: white;
 		display: flex;
 		align-items: center;
 	}
@@ -41,8 +36,7 @@ include('header.php');
 		left: 0;
 		width: 50%;
 		height: calc(100%);
-		background: #222;
-		/* Cambia el color de fondo a oscuro */
+		background: #59b6ec61;
 		display: flex;
 		align-items: center;
 		background: url(assets/img/recruitment-cover.jpg);
@@ -52,22 +46,16 @@ include('header.php');
 
 	#login-right .card {
 		margin: auto;
-		z-index: 1;
-		background: #222;
-		/* Cambia el color de fondo a oscuro */
-		color: #fff;
-		/* Cambia el color del texto a claro */
+		z-index: 1
 	}
 
 	.logo {
 		margin: auto;
 		font-size: 8rem;
-		background: #333;
-		/* Cambia el color de fondo a oscuro */
+		background: white;
 		padding: .5em 0.7em;
 		border-radius: 50% 50%;
-		color: #fff;
-		/* Cambia el color del texto a claro */
+		color: #000000b3;
 		z-index: 10;
 		height: calc(75%);
 		max-width: calc(80%);
@@ -85,8 +73,7 @@ include('header.php');
 		left: 0;
 		width: calc(100%);
 		height: calc(100%);
-		background: #000000e0;
-		/* Cambia el color de fondo a oscuro */
+		/*background: #000000e0;*/
 	}
 </style>
 
